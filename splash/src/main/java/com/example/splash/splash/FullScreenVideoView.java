@@ -1,4 +1,4 @@
-package com.example.splash;
+package com.example.splash.splash;
 
 import android.content.Context;
 import android.util.AttributeSet;
