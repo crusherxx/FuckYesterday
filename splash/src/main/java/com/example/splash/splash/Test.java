@@ -12,13 +12,13 @@ public class Test extends Application {
         haha = splashActivity;
     }
 
-    @Override
-    public void onCreate() {
-        super.onCreate ();
+//    @Override
+//    public void onCreate() {
+//        super.onCreate ();
 //        if (LeakCanary.isInAnalyzerProcess (this)){
 //            return;
 //        }
-        LeakCanary.install (this);
-
-    }
+//        LeakCanary.install (this);
+//
+//    }
 }
