@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="liulanqi/app" />
+      <module fileurl="file://$PROJECT_DIR$/../app2/app2.iml" filepath="$PROJECT_DIR$/../app2/app2.iml" group="liulanqi/app2" />
+      <module fileurl="file://$PROJECT_DIR$/../chronometer/chronometer.iml" filepath="$PROJECT_DIR$/../chronometer/chronometer.iml" group="liulanqi/chronometer" />
+      <module fileurl="file://$PROJECT_DIR$/../handler/ck/ck.iml" filepath="$PROJECT_DIR$/../handler/ck/ck.iml" group="liulanqi/handler/ck" />
+      <module fileurl="file://$PROJECT_DIR$/../app/contract/contract.iml" filepath="$PROJECT_DIR$/../app/contract/contract.iml" group="liulanqi/app/contract" />
+      <module fileurl="file://$PROJECT_DIR$/../databinding/databinding.iml" filepath="$PROJECT_DIR$/../databinding/databinding.iml" group="liulanqi/databinding" />
+      <module fileurl="file://$PROJECT_DIR$/../handler/handler.iml" filepath="$PROJECT_DIR$/../handler/handler.iml" group="liulanqi/handler" />
+      <module fileurl="file://$PROJECT_DIR$/../handler/hn/hn.iml" filepath="$PROJECT_DIR$/../handler/hn/hn.iml" group="liulanqi/handler/hn" />
+      <module fileurl="file://$PROJECT_DIR$/../http/http.iml" filepath="$PROJECT_DIR$/../http/http.iml" group="liulanqi/http" />
+      <module fileurl="file://$PROJECT_DIR$/../jetpack/jetpack.iml" filepath="$PROJECT_DIR$/../jetpack/jetpack.iml" group="liulanqi/jetpack" />
+      <module fileurl="file://$PROJECT_DIR$/../jishuqi/jishuqi.iml" filepath="$PROJECT_DIR$/../jishuqi/jishuqi.iml" group="liulanqi/jishuqi" />
+      <module fileurl="file://$PROJECT_DIR$/../liulanqi.iml" filepath="$PROJECT_DIR$/../liulanqi.iml" group="liulanqi" />
+      <module fileurl="file://$PROJECT_DIR$/../mvc/mvc.iml" filepath="$PROJECT_DIR$/../mvc/mvc.iml" group="liulanqi/mvc" />
+      <module fileurl="file://$PROJECT_DIR$/../app/mvp/mvp.iml" filepath="$PROJECT_DIR$/../app/mvp/mvp.iml" group="liulanqi/app/mvp" />
+      <module fileurl="file://$PROJECT_DIR$/../mvp2/mvp2.iml" filepath="$PROJECT_DIR$/../mvp2/mvp2.iml" group="liulanqi/mvp2" />
+      <module fileurl="file://$PROJECT_DIR$/mvp3/mvp3.iml" filepath="$PROJECT_DIR$/mvp3/mvp3.iml" group="liulanqi/splash/mvp3" />
+      <module fileurl="file://$PROJECT_DIR$/../navigation3/navigation3.iml" filepath="$PROJECT_DIR$/../navigation3/navigation3.iml" group="liulanqi/navigation3" />
+      <module fileurl="file://$PROJECT_DIR$/../navigationdemo/navigationdemo.iml" filepath="$PROJECT_DIR$/../navigationdemo/navigationdemo.iml" group="liulanqi/navigationdemo" />
+      <module fileurl="file://$PROJECT_DIR$/../navigationdemo2/navigationdemo2.iml" filepath="$PROJECT_DIR$/../navigationdemo2/navigationdemo2.iml" group="liulanqi/navigationdemo2" />
+      <module fileurl="file://$PROJECT_DIR$/../preference/preference.iml" filepath="$PROJECT_DIR$/../preference/preference.iml" group="liulanqi/preference" />
+      <module fileurl="file://$PROJECT_DIR$/../preference2/preference2.iml" filepath="$PROJECT_DIR$/../preference2/preference2.iml" group="liulanqi/preference2" />
+      <module fileurl="file://$PROJECT_DIR$/../recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/../recyclerview/recyclerview.iml" group="liulanqi/recyclerview" />
+      <module fileurl="file://$PROJECT_DIR$/../room1/room1.iml" filepath="$PROJECT_DIR$/../room1/room1.iml" group="liulanqi/room1" />
+      <module fileurl="file://$PROJECT_DIR$/../socket/socket.iml" filepath="$PROJECT_DIR$/../socket/socket.iml" group="liulanqi/socket" />
+      <module fileurl="file://$PROJECT_DIR$/splash.iml" filepath="$PROJECT_DIR$/splash.iml" group="liulanqi/splash" />
+      <module fileurl="file://$PROJECT_DIR$/../task/task.iml" filepath="$PROJECT_DIR$/../task/task.iml" group="liulanqi/task" />
+      <module fileurl="file://$PROJECT_DIR$/../app/view/view.iml" filepath="$PROJECT_DIR$/../app/view/view.iml" group="liulanqi/app/view" />
+      <module fileurl="file://$PROJECT_DIR$/../jetpack/viewmodel01/viewmodel01.iml" filepath="$PROJECT_DIR$/../jetpack/viewmodel01/viewmodel01.iml" group="liulanqi/jetpack/viewmodel01" />
+      <module fileurl="file://$PROJECT_DIR$/../viewmodelrestore/viewmodelrestore.iml" filepath="$PROJECT_DIR$/../viewmodelrestore/viewmodelrestore.iml" group="liulanqi/viewmodelrestore" />
+      <module fileurl="file://$PROJECT_DIR$/../app2/viewmodeltest/viewmodeltest.iml" filepath="$PROJECT_DIR$/../app2/viewmodeltest/viewmodeltest.iml" group="liulanqi/app2/viewmodeltest" />
+    </modules>
+  </component>
+</project>

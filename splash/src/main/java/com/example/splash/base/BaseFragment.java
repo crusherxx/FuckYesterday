@@ -9,13 +9,13 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.example.splash.mvp.view.LifeCircleMvpActivity;
-import com.example.splash.mvp.view.LifeCircleMvpFragment;
+import com.example.mvp2.mvp.view.LifeCircleMvpActivity;
+import com.example.mvp2.mvp.view.LifeCircleMvpFragment;
 
 import butterknife.ButterKnife;
 
 public abstract class BaseFragment extends LifeCircleMvpFragment {
-    private Context mContext;
+    protected Context mContext;
 
     @Override
     public void onAttach(@NonNull Context context) {

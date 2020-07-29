@@ -11,7 +11,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.splash"
-        minSdkVersion 15
+        minSdkVersion 24
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
@@ -40,11 +40,20 @@ android {
         implementation 'com.google.android.material:material:1.1.0+'
         implementation 'com.jakewharton:butterknife:10.2.1'
         annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
-
+        implementation("com.squareup.okhttp3:okhttp:4.5.0")
+        testImplementation("com.squareup.okhttp3:mockwebserver:4.5.0")
+        implementation 'com.google.code.gson:gson:2.8.6'
+        implementation "com.airbnb.android:lottie:2.8.0"
+        debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.6.3'
     }
 }
 
 dependencies {
     implementation 'androidx.appcompat:appcompat:+'
     implementation 'androidx.constraintlayout:constraintlayout:+'
+    implementation project(path: ':mvp2')
+    implementation project(path: ':http')
+    implementation project(path: ':task')
+    implementation project(path: ':refresh')
+    implementation project(path: ':annotation')
 }

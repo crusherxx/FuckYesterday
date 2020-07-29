@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../app/contract" />
+            <option value="$PROJECT_DIR$/../app/mvp" />
+            <option value="$PROJECT_DIR$/../app/view" />
+            <option value="$PROJECT_DIR$/../app2" />
+            <option value="$PROJECT_DIR$/../app2/viewmodeltest" />
+            <option value="$PROJECT_DIR$/../chronometer" />
+            <option value="$PROJECT_DIR$/../databinding" />
+            <option value="$PROJECT_DIR$/../handler" />
+            <option value="$PROJECT_DIR$/../handler/ck" />
+            <option value="$PROJECT_DIR$/../handler/hn" />
+            <option value="$PROJECT_DIR$/../http" />
+            <option value="$PROJECT_DIR$/../jetpack" />
+            <option value="$PROJECT_DIR$/../jetpack/viewmodel01" />
+            <option value="$PROJECT_DIR$/../jishuqi" />
+            <option value="$PROJECT_DIR$/../mvc" />
+            <option value="$PROJECT_DIR$/../mvp2" />
+            <option value="$PROJECT_DIR$/../navigation3" />
+            <option value="$PROJECT_DIR$/../navigationdemo" />
+            <option value="$PROJECT_DIR$/../navigationdemo2" />
+            <option value="$PROJECT_DIR$/../preference" />
+            <option value="$PROJECT_DIR$/../preference2" />
+            <option value="$PROJECT_DIR$/../recyclerview" />
+            <option value="$PROJECT_DIR$/../room1" />
+            <option value="$PROJECT_DIR$/../socket" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/mvp3" />
+            <option value="$PROJECT_DIR$/../task" />
+            <option value="$PROJECT_DIR$/../viewmodelrestore" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

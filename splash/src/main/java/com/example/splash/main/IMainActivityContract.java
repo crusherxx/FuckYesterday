@@ -2,9 +2,9 @@ package com.example.splash.main;
 
 import androidx.fragment.app.Fragment;
 
-import com.example.splash.mvp.ILifeCircle;
-import com.example.splash.mvp.IMvpView;
-import com.example.splash.mvp.MvpControler;
+import com.example.mvp2.mvp.ILifeCircle;
+import com.example.mvp2.mvp.IMvpView;
+import com.example.mvp2.mvp.MvpControler;
 
 public interface IMainActivityContract {
     interface Iview extends IMvpView {

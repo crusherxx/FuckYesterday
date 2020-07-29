@@ -7,7 +7,7 @@ import com.example.splash.main.beijing.BeiJingFragment;
 import com.example.splash.main.hangzhou.HangZhouFragment;
 import com.example.splash.main.shanghai.ShangHaiFragment;
 import com.example.splash.main.shenzhen.ShenZhenFragment;
-import com.example.splash.mvp.base.BaseMvpPresenter;
+import com.example.mvp2.mvp.base.BaseMvpPresenter;
 
 public class MainActivityPresenter extends BaseMvpPresenter<IMainActivityContract.Iview> implements IMainActivityContract.IPresenter{
 

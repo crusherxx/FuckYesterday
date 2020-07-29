@@ -1,0 +1,8 @@
+include ':apt'
+include ':annotation'
+include ':refresh'
+include ':splash'
+rootProject.name='liulanqi'
+include ':mvp2'
+include ':http'
+include ':task'

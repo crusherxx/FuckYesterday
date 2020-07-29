@@ -2,7 +2,7 @@ package com.example.splash.splash;
 
 import android.util.Log;
 
-import com.example.splash.mvp.base.BaseMvpPresenter;
+import com.example.mvp2.mvp.base.BaseMvpPresenter;
 
 public class SplashTimerPresenter extends BaseMvpPresenter<ISplashActivityContract.Iview> implements ISplashActivityContract.IPresenter {
     private CustomCountDownTimer timer;
